@@ -1,0 +1,46 @@
+Download Source Code:
+
+You have two options for downloading the code.
+
+Option 1: Download zip file
+
+File: full-stack-angular-and-springboot-master.zip
+
+
+Option 2: Download using git command-line
+
+You also have the option to download source code using git command-line.
+
+git clone https://github.com/darbyluv2code/fullstack-angular-and-springboot.git
+
+
+Note: Option 1 and Option 2 both reference the exact same code. You only need to choose one of the options.
+
+If you are using Microsoft Windows, please scroll down and see the last section of this document.
+
+
+---
+Download PDF Files
+
+All slides which are shown during the course are available also as a reference and can be downloaded here:
+
+http://www.luv2code.com/download-full-stack-angular-and-springboot-pdf-slides
+
+
+---
+
+NOTES FOR MICROSOFT WINDOWS USERS - Error "File Names Too Long"
+
+During download of the files, you may encounter an error "File Names Too Long" or "Invalid File" ... something along those lines. This is because by default some of the MS Windows utilities can not support long file names. Here are solutions.
+
+If you are using the .zip file, then use the 7Zip Utility. The 7Zip Utility is a free download available at this link.
+
+https://www.7-zip.org/download.html
+
+
+If you are using git clone at command line, then follow these steps:
+
+1. Open a Command Prompt window with Administrator privileges.
+2. Run the following command
+
+git clone -c core.longpaths=true https://github.com/darbyluv2code/fullstack-angular-and-springboot.git 
